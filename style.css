@@ -1,0 +1,13 @@
+body{
+
+    background-color: red;
+
+}
+
+.div1,.div2
+{
+    float: none;
+    padding: 10px;
+    background-color: white;
+    border-radius: 15px;
+}
